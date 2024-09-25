@@ -5,7 +5,7 @@ This project aims to build a machine-learning model that predicts real estate pr
 
 ---
 
-#### **Tech Stacks and Libraries Learned:**
+#### **Tech Stacks and Libraries Used:**
 
 - **Programming Language**: Python
 - **Data Manipulation**: 
@@ -17,7 +17,8 @@ This project aims to build a machine-learning model that predicts real estate pr
   - **Scikit-Learn (Sklearn)**: Used for model building and evaluation, including Linear Regression, Lasso, Ridge, K-fold cross-validation, and GridSearchCV for hyperparameter tuning.
 - **Model Saving**: 
   - **Pickle/Joblib**: Used for saving and loading the trained machine learning model for future use.
-
+-  **IDE**:  
+  - **Juypter Notebook and Google Colab**: used for running the code and documenting the code of the project interactively.
 ---
 
 #### **Result:**
