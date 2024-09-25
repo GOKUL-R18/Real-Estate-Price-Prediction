@@ -1,4 +1,4 @@
-### Real Estate Price Prediction Project
+## Real Estate Price Prediction Project
 
 #### **Objective:**
 This project aims to build a machine-learning model that predicts real estate prices in Bangalore. The model takes input features such as the square footage of the house, number of bedrooms, bathrooms, and location to predict the approximate selling price. The primary goal is to create an accurate prediction system to assist in real estate decision-making.
